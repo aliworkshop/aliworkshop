@@ -1,9 +1,8 @@
-<div align="center">
-  
-## GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aliworkshop&theme=swift&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aliworkshop&theme=swift&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aliworkshop&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![Ali Torabi's github stats](https://github-readme-stats.vercel.app/api?username=aliworkshop&count_private=true&show_icons=true&theme=chartreuse-light)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliworkshop&layout=compact&theme=chartreuse-light)
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=aliworkshop&theme=radical&no-frame=false&no-bg=true&margin-w=4)
